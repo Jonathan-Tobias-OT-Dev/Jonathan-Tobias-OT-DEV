@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Jonathan-Tobias 😁
+## Bem-vindo(a) ao perfil do Jonathan-Tobias 
 
  <div>
    <a href="https://github.com/Jonathan-Tobias">
