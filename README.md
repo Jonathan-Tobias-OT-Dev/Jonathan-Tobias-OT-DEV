@@ -1,24 +1,24 @@
-## Bem-vindo(a) ao perfil do Jonathan-Tobias 
+## 👋 Olá, eu sou o Jonathan Tobias!
 
- <div>
-   <a href="https://github.com/Jonathan-Tobias">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathan-Tobias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Tobias&layout=compact&langs_count=6&theme=tokyonight"/>
+Sou um Desenvolvedor Frontend focado em construir interfaces web modernas e responsivas. Estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e React.js**. Busco oportunidades para aplicar meus conhecimentos e evoluir profissionalmente.
+
+---
+
+## 🚀 Tecnologias que estou aprendendo:
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40">
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Desenvolvedor Web em construção!
- 
-<div>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tobiasjonathan098@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+---
+
+## 🛠 Projetos em Destaque:
+- [Landing Page Responsiva](https://github.com/Jonathan-Tobias/landing-page) - Site responsivo utilizando HTML, CSS e Flexbox.
+- [To-Do List Interativa](https://github.com/Jonathan-Tobias/todo-list) - Aplicação de lista de tarefas utilizando JavaScript.
+
+---
+
+## 📫 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jonathan-Tobias)  
+[![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiasjonathan098@gmail.com)
