@@ -21,8 +21,7 @@ Sou um Desenvolvedor Frontend focado em construir interfaces web modernas e resp
 ---
 
 ## 📫 Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-tobias-jonathan-7a7678354)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-jonathan-7a7678354)
 
 [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobiasjonathan098@gmail.com)  
 
